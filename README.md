@@ -6,3 +6,8 @@ Estamos constantemente desenvolvendo e testando estratégias de negociação qua
 
 Nossa plataforma atual permite que qualquer pessoa, em qualquer lugar, execute um algoritmo de trades assimétricos em pares de criptografia.
 
+Linguagens de programação escolhida:
+
+Python3 
+PHP
+
